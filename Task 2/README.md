@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with API call React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is bootstrapped with [React App](https://github.com/facebook/create-react-app) along with [API](https://reqres.in/api/users?page=1) call.
 
 ## Available Scripts
 
@@ -27,4 +27,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.\
+\
+![task2a](https://user-images.githubusercontent.com/79002186/178856574-4dc5204e-266d-474a-98aa-5a7b2adddd6e.png)
+\
+![task2b](https://user-images.githubusercontent.com/79002186/178856666-6ea121e6-4402-46a0-b10e-509dca60e6b6.png)

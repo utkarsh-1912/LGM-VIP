@@ -27,4 +27,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.\
+\
+![task1](https://user-images.githubusercontent.com/79002186/178857180-5ef3fb58-db27-4aa5-a26b-a94c7b30c69e.png)

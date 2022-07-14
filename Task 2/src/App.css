@@ -1,0 +1,89 @@
+.App {
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+*:focus{
+  outline: none;
+}
+.App {
+  background-color: #161617;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(8px + 2vmin);
+  color: white;
+}
+
+.navbar{
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center;
+  height: 72px;
+  padding: 3px;
+  border: 2px solid rgb(71, 75, 75);
+}
+.navbar img{
+  height:72px;
+}
+.navbar .item{
+  padding: 0 10px 0 0;
+}
+button{
+  width: fit-content;
+  margin: auto;
+  padding: 8px;
+  font-size: 20px;
+  transition: 1s;
+}
+button:hover{
+  transform: scale(1.2);
+}
+.user{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+.userBox{
+  background-color: #000000;
+  border:2px solid grey;
+  width : 280px;
+  margin: 5px;
+  border-radius: 10px;
+  transition: 0.5s;
+}
+.userBox:hover{
+  transform: scale(1.04);
+}
+.userBox img{
+  width:100%;
+  border-radius: 10px 10px 0 0;
+}
+.userBox h3 , .userBox p{
+  margin: 5px 0;
+}
+.userBox h3{
+  font-size: 18px;
+}
+.userBox p{
+  font-weight: bold;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: grey;
+  word-wrap: break-word;
+  padding: 2px;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: rgb(255, 255, 255);
+}
